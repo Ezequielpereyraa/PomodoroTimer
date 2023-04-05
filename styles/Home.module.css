@@ -55,3 +55,12 @@
 .work {
  background-color: #111827;
 }
+
+@media screen and (max-width: 768px) {
+ .main {
+  font-size: 23px;
+ }
+ .time{
+  font-size: 100px;
+ }
+}
